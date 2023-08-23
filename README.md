@@ -6,7 +6,7 @@ Tecnico em redes de computaodres, estudante de gestão em TI
 Desenvolvedor Front End, Desenvolvedpor Python e My-SQL &nbsp;<br>
 
 
-# conecte-se comigo
+# Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/sergio-adriao-faria-7968082b/)
 
