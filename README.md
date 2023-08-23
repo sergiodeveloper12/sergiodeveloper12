@@ -3,7 +3,7 @@
 
 <br> &nbsp;
 Tecnico em redes de computaodres, estudante de gestão em TI 
-Desenvolvedor Front End, Desenvolvedpor Python e My-SQL &nbsp;<br>
+Desenvolvedor Front End, Desenvolvedor  Python e My-SQL &nbsp;<br>
 
 
 # Conecte-se comigo
