@@ -2,7 +2,7 @@
 <div align =center><h1>Sérgio Adriano Faria </h1> 
 
 <br> &nbsp;
-Tecnico em redes de computaodres, estudante de gestão em TI 
+Técnico em redes de computaodres, estudante de gestão em TI 
 Desenvolvedor Front End, Desenvolvedor  Python e My-SQL &nbsp;<br>
 
 
