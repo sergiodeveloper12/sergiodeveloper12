@@ -18,7 +18,7 @@ Desenvolvedor Front End, Desenvolvedor  Python e My-SQL &nbsp;<br>
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-
+![shell](https://camo.githubusercontent.com/8756ea97fd5b4ea7c5e15baff4c45a6db53272515a3ad8529b219325762d86b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656c6c7363726970742d6465646564653f7374796c653d666f722d7468652d6261646765266c6f676f3d7368656c6c736372697074266c6f676f436f6c6f723d7768697465)
 
 #FRAMEWORKS
 <hr>
