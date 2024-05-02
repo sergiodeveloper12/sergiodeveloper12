@@ -2,7 +2,7 @@
 <div align =center><h1>Sérgio Adriano Faria </h1> 
 
 <br> &nbsp;
-Analista de Suporte Júnior na Empresa Art System, Técnico em redes de computadores formado pela ETEC Sapopemba de SP, estudante de gestão em TI na FAAMESP
+Analista de Suporte Júnior , Técnico em redes de computadores formado pela ETEC Sapopemba de SP, estudante de gestão em TI na FAAMESP
 Desenvolvedor Front End, Desenvolvedor  Python e My-SQL &nbsp;<br>
 
 
