@@ -2,7 +2,7 @@
 <div align =center><h1>Sérgio Adriano Faria </h1> 
 
 <br> &nbsp;
-Analista de Suporte PL , Técnico em redes de computadores formado pela ETEC Sapopemba de SP, formando em gestão em TI na FAAMESP
+Analista de infra Jr , Técnico em redes de computadores formado pela ETEC Sapopemba de SP, formando em gestão em TI na FAAMESP
 Desenvolvedor Front End, Desenvolvedor  Python e My-SQL &nbsp;<br>
 
 
