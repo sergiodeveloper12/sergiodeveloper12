@@ -4,7 +4,7 @@
 <h3>Analista de Infraestrutura | Redes | Cybersegurança</h3>
 
 </div>
-
+<div> <hr></div></div>
 Técnico em Redes de Computadores – ETEC Sapopemba (SP)<br>
 Formado em Gestão de TI – FAMEESP <br>
 Aluno do programa Hackers do Bem – Formação em Cibersegurança
