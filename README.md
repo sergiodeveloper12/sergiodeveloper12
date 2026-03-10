@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👨‍💻 Sérgio Adriano Faria</h1>
+<h1>👨‍💻 Sérgio Adriano Faria 👨‍💻</h1>
 <h3>Analista de Infraestrutura | Redes | Cybersegurança</h3>
 
 </div>
