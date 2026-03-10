@@ -1,8 +1,8 @@
-<center># Sérgio Adriano Faria</center>
+<center>Sérgio Adriano Faria</center>
 
 Analista de Infraestrutura Jr<br>
 Técnico em Redes de Computadores – ETEC Sapopemba (SP)<br>
-Formado em Gestão de TI – FAMEESP
+Formado em Gestão de TI – FAMEESP <br>
 Aluno do programa Hackers do Bem – Formação em Cibersegurança
 
 Desenvolvedor **Front-End**, **Python**, **MySQL** <br>
