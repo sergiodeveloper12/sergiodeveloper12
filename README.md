@@ -15,18 +15,15 @@ Interesse em **Cybersegurança** e **Infraestrutura** <br>
 ---
 
 # Conecte-se comigo
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sergiofariati/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
-  <p align="center">
+<p align="center">
 
 <a href="mailto:serginhophn@gmail.com">
-<img src="https://img.shields.io/badge/Email-serginhophn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/sergiofariati/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </p>
 
