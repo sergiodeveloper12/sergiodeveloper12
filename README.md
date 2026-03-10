@@ -1,17 +1,24 @@
-# Sérgio Adriano Faria
+<center># Sérgio Adriano Faria</center>
 
-Analista de Infraestrutura Jr
-Técnico em Redes de Computadores – ETEC Sapopemba (SP)
+Analista de Infraestrutura Jr<br>
+Técnico em Redes de Computadores – ETEC Sapopemba (SP)<br>
 Formado em Gestão de TI – FAMEESP
+Aluno do programa Hackers do Bem – Formação em Cibersegurança
 
-Desenvolvedor **Front-End**, **Python**, **MySQL**
-Interesse em **Cybersegurança** e **Infraestrutura**
+Desenvolvedor **Front-End**, **Python**, **MySQL** <br>
+Interesse em **Cybersegurança** e **Infraestrutura** <br>
 
 ---
 
 # Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=0E76A8)](https://www.linkedin.com/in/sergio-adriao-faria-7968082b/)
+<p align="left">
+<a href="https://www.linkedin.com/in/sergiofariati/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+</p>
+
+
 
 ---
 
@@ -67,12 +74,5 @@ Interesse em **Cybersegurança** e **Infraestrutura**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40"/>
 </p>
 
----
-
-# GitHub Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiodeveloper12\&show_icons=true\&count_private=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodeveloper12\&layout=compact\&theme=tokyonight)
 
   
