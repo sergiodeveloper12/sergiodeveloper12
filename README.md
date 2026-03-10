@@ -80,18 +80,20 @@ Interesse em **Cybersegurança** e **Infraestrutura** <br>
 
 # Monitoramento & Observabilidade
 
+
+
 <p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zabbix/zabbix-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zabbix_logo.svg" width="80"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
 
-<img src="https://img.shields.io/badge/Control--M-FF6A00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Control--M-BMC-orange?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nagios/nagios-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nagios_logo.svg" width="80"/>
 
 </p>
