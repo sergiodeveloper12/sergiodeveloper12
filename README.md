@@ -5,9 +5,13 @@
 
 </div>
 <div> <hr></div></div>
+Pós graduando em Cibersegurança = FAMEF Faculdade Metropolitanda de Franca
+Pós graduando em Ciências Sociais= FAMEF Faculdade Metropolitanda de Franca
+Pós graduando em Psicologia na Era Digital = FAMEF Faculdade Metropolitanda de Franca
 Técnico em Redes de Computadores – ETEC Sapopemba (SP)<br>
 Formado em Gestão de TI – FAMEESP <br>
-Aluno do programa Hackers do Bem – Formação em Cibersegurança
+Aluno Hackers do Bem -Módulo Fundamental concluido
+
 
 Desenvolvedor **Front-End**, **Python**, **MySQL** <br>
 Interesse em **Cybersegurança** e **Infraestrutura** <br>
