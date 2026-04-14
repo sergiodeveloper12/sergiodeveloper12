@@ -5,16 +5,27 @@
 
 </div>
 <div> <hr></div></div>
-Pós graduando em Cibersegurança - FAMEF Faculdade Metropolitanda de Franca<br>
-Pós graduando em Ciências Sociais - FAMEF Faculdade Metropolitanda de Franca<br>
-Pós graduando em Psicologia na Era Digital - FAMEF Faculdade Metropolitanda de Franca<br>
+🎓 Formação acadêmica
+Pós-graduação em Cibersegurança – FAMF (em andamento)<br>
+Pós-graduação em Ciências Sociais – FAMF (em andamento)<br>
+Pós-graduação em Psicologia na Era Digital – FAMF (em andamento)<br>
+Graduação em Gestão de TI – FAMEESP<br>
 Técnico em Redes de Computadores – ETEC Sapopemba (SP)<br>
-Formado em Gestão de TI – FAMEESP <br>
-Aluno Hackers do Bem -Módulo Fundamental concluido
+<hr>
+🛡️ Experiência e capacitação <br>
+Analista de Infraestrutura (Redes e Suporte) <br>
+Hackers do Bem – Módulo Fundamental concluído <br>
+Conhecimentos em Python, Front-end e MySQL <br>
+<hr>
+🎯 Áreas de interesse <br>
+Cibersegurança ofensiva (Red Team) <br>
+Forense digital e análise de incidentes <br>
+Infraestrutura de redes<br>
+Engenharia social e comportamento humano aplicado à segurança<br>
+<hr>
+🧠 Visão profissional <BR>
 
-
-Desenvolvedor **Front-End**, **Python**, **MySQL** <br>
-Interesse em **Cybersegurança** e **Infraestrutura** <br>
+Atuação voltada à interseção entre infraestrutura, segurança da informação e comportamento humano, com foco em análise de riscos, investigação de incidentes e compreensão sistêmica de falhas em ambientes digitais. <BR>
 
 ---
 
