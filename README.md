@@ -5,7 +5,7 @@
 
 </div>
 <div> <hr></div></div>
-🎓 Formação acadêmica
+🎓 Formação acadêmica <BR>
 Pós-graduação em Cibersegurança – FAMF (em andamento)<br>
 Pós-graduação em Ciências Sociais – FAMF (em andamento)<br>
 Pós-graduação em Psicologia na Era Digital – FAMF (em andamento)<br>
