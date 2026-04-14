@@ -6,7 +6,7 @@
 </div>
 <div> <hr></div></div>
 🎓 Formação acadêmica <BR>
-Pós-graduação em Cibersegurança – FAMeF (em andamento)<br>
+Pós-graduação em Cibersegurança – FAMEF (em andamento)<br>
 Pós-graduação em Ciências Sociais – FAMEF (em andamento)<br>
 Pós-graduação em Psicologia na Era Digital – FAMEF (em andamento)<br>
 Graduação em Gestão de TI – FAMEESP<br>
