@@ -14,7 +14,7 @@ Técnico em Redes de Computadores – ETEC Sapopemba (SP)<br>
 <hr>
 🛡️ Experiência e capacitação <br>
 Analista de Infraestrutura (Redes e Suporte) <br>
-Hackers do Bem – Especialização em Red Team <br>
+Hackers do Bem – Especialização em Red Team em Andamento<br>
 Conhecimentos em Python, Front-end e MySQL <br>
 <hr>
 🎯 Áreas de interesse <br>
