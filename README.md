@@ -9,6 +9,7 @@
 Pós-graduação em Cibersegurança – FAMEF (em andamento)<br>
 Pós-graduação em Ciências Sociais – FAMEF (em andamento)<br>
 Pós-graduação em Psicologia na Era Digital – FAMEF (em andamento)<br>
+Pós-graduação em Pericia Digital– FACPRISMA- (em andamento)<br>
 Graduação em Gestão de TI – FAMEESP<br>
 Técnico em Redes de Computadores – ETEC Sapopemba (SP)<br>
 <hr>
