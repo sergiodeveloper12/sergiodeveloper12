@@ -144,7 +144,9 @@ Atuação voltada à interseção entre infraestrutura, segurança da informaç�
 <hr>
 ☁️ Cloud
 
-<Br>
+<br>
+<o>
+&nbsp;
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
