@@ -125,7 +125,7 @@ Atuação voltada à interseção entre infraestrutura, segurança da informaç�
 
 -----
 <p>
-### 🛠️ Pentest & Security
+🛠️ Pentest & Security
 
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
