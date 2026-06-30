@@ -141,7 +141,7 @@ Atuação voltada à interseção entre infraestrutura, segurança da informaç�
 ![Nikto](https://img.shields.io/badge/Nikto-006400?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 <o>
-<HR>
+<hr>
 ### ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
