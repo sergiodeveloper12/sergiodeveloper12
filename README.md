@@ -123,4 +123,29 @@ Atuação voltada à interseção entre infraestrutura, segurança da informaç�
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nagios_logo.svg" width="80"/>
 
+-----
+<p>
+### 🛠️ Pentest & Security
+
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-228B22?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E5EAA?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=zaproxy&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-444444?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF4500?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-006400?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<o>
+### ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+
 </p>
