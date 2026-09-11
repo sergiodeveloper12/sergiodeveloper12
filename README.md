@@ -44,45 +44,9 @@
 </p>
 
 ---
-
-# Data & BI
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="40"/>
+<p align="center">
+  <img src="ChatGPT%20Image%2011%20de%20set.%20de%202026%2C%2020_55_03.png" alt="Banner do perfil">
 </p>
-
----
-
-# Sistemas Operacionais
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40"/>
-</p>
-
-# Monitoramento & Observabilidade
-
-
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="40"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zabbix_logo.svg" width="80"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
-
-<img src="https://img.shields.io/badge/Control--M-BMC-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nagios_logo.svg" width="80"/>
-
 -----
 <p>
 
