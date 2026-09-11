@@ -3,7 +3,7 @@
 </div>
 <div> <hr></div></div>
 
-![Formação Acadêmica](./formacao-academica.png)
+![Banner do perfil](ChatGPT%20Image%2011%20de%20set.%20de%202026%2C%2019_35_38.png)
 <br>
 <hr>
 🛡️ Experiência e capacitação <br>
