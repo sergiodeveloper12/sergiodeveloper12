@@ -1,4 +1,4 @@
-github-banner-sergio.svg
+![banner](./assets/github-banner-sergio.svg)
 
 </div>
 <div> <hr></div></div>
