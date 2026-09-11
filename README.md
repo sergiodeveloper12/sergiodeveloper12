@@ -1,4 +1,4 @@
-![banner](./assets/github-banner-sergio.svg)
+
 
 </div>
 <div> <hr></div></div>
