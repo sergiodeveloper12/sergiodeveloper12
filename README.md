@@ -6,11 +6,10 @@
 ![Banner do perfil](ChatGPT%20Image%2011%20de%20set.%20de%202026%2C%2019_35_38.png)
 <br>
 <hr>
-🛡️ Experiência e capacitação <br>
-Analista de Infraestrutura (Redes e Suporte) <br>
-Hackers do Bem – Red team/Pentester <br>
-AWS - Estudante Escola na Nuvem<br>
-Conhecimentos em Python, Front-end e MySQL <br>
+
+<p align="center">
+  <img src="Gemini_Generated_Image_w2l2clw2l2clw2l2.jpeg" alt="Banner do perfil">
+</p>
 <hr>
 🎯 Áreas de interesse <br>
 Cibersegurança ofensiva (Red Team) <br>
