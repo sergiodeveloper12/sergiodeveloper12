@@ -15,9 +15,9 @@
   <img src="Gemini_Generated_Image_fpchubfpchubfpch.jpeg" alt="Banner do perfil">
 </p>
 <hr>
-🧠 Visão profissional <BR>
-
-Atuação voltada à interseção entre infraestrutura, segurança da informação e comportamento humano, com foco em análise de riscos, investigação de incidentes e compreensão sistêmica de falhas em ambientes digitais. <BR>
+ <p align="center">
+  <img src="Gemini_Generated_Image_r520g0r520g0r520.jpeg" alt="Banner do perfil">
+</p>
 
 ---
 
