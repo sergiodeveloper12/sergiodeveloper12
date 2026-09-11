@@ -11,11 +11,9 @@
   <img src="Gemini_Generated_Image_w2l2clw2l2clw2l2.jpeg" alt="Banner do perfil">
 </p>
 <hr>
-🎯 Áreas de interesse <br>
-Cibersegurança ofensiva (Red Team) <br>
-Forense digital e análise de incidentes <br>
-Infraestrutura de redes<br>
-Engenharia social e comportamento humano aplicado à segurança<br>
+<p align="center">
+  <img src="Gemini_Generated_Image_fpchubfpchubfpch.jpeg" alt="Banner do perfil">
+</p>
 <hr>
 🧠 Visão profissional <BR>
 
